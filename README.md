@@ -18,3 +18,15 @@ Name Database(http://www.heise.de/ct/ftp/07/17/182/):
 License: GNU Lesser General Public License (LGPL)
 OriginalCode: OpenSource(Original Codes)/NameDatabase
 
+Alpha 0.0.1
+- first version
+
+Alpha 0.0.2
+- improved alogrithmn
+
+Alpha 0.0.3
+- improved alogrithmn
+- added Social Media Accounts
+
+
+
